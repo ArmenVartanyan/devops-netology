@@ -29,11 +29,13 @@ Ansible фокусируется на оптимизации и скорости
 - Vagrant
 - Ansible
 
-Вывод команд версий приложений:
+Вывод версий приложений:
+
+<img src="https://raw.githubusercontent.com/ArmenVartanyan/devops-netology/main/version.jpg">
 
 ## Задача 4 (*)
 
 Создал виртуальную машину и выполнил в ней команду
 docker ps
-<img src="">
+<img src="https://raw.githubusercontent.com/ArmenVartanyan/devops-netology/main/docker.jpg">
 
